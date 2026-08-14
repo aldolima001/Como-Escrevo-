@@ -119,7 +119,7 @@ Para conhecer os detalhes sobre coleta, utilização e proteção de dados, cons
 
 Para dúvidas, sugestões ou informações sobre o aplicativo:
 
-**E-mail:** `contato@devemcasa.com.br
+**E-mail:** contato@devemcasa.com.br
 
 ---
 
