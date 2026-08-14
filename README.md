@@ -1,11 +1,17 @@
 # ✏️ Como Escrevo?
 
 <p align="center">
-  <img src="screenshots/Lorah.webp" width="330" alt="Lorah, a leoa do Como Escrevo?">
+  <img src="screenshots/bem-vindo.webp" width="400" alt="Tela de boas-vindas do Como Escrevo?">
+</p>
+
+## 🦁 Conheça a Lorah
+
+<p align="center">
+  <img src="screenshots/Lorah.webp" width="150" alt="Lorah, a leoa do Como Escrevo?">
 </p>
 
 <p align="center">
-  <strong>🦁 Esta é a Lorah!</strong><br>
+  <strong>Esta é a Lorah!</strong><br>
   A companheira das crianças na aventura de aprender a ler, escrever e soletrar.
 </p>
 
@@ -42,16 +48,6 @@ em uma oportunidade para **descobrir, ouvir, soletrar e aprender.**
 <p align="center">
   <em>Uma experiência pensada para tornar o aprendizado mais divertido e interativo.</em>
 </p>
-
----
-
-## 🦁 Uma companheira para aprender brincando
-
-A **Lorah** foi criada para acompanhar a criança durante essa jornada.
-
-Ela está presente na experiência para tornar a descoberta das letras e palavras mais leve, divertida e acolhedora.
-
-**Aprender pode ser uma grande aventura!** 🦁✨
 
 ---
 
@@ -132,11 +128,6 @@ Para dúvidas, sugestões ou informações sobre o aplicativo:
   <em>Aprender brincando!</em>
 </p>
 
-<p align="center">
-  <strong>✏️ Como Escrevo?</strong><br>
-  <em>Aprender brincando!</em>
-</p>
-
 <br>
 
 <p align="center">
@@ -156,4 +147,3 @@ Para dúvidas, sugestões ou informações sobre o aplicativo:
 <p align="center">
   © 2026 Como Escrevo? — Todos os direitos reservados.
 </p>
-
