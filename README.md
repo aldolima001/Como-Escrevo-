@@ -1,13 +1,13 @@
 # ✏️ Como Escrevo?
 
 <p align="center">
-  <img src="screenshots/bem-vindo.webp" width="400" alt="Tela de boas-vindas do Como Escrevo?">
+  <img src="screenshots/bem-vindo.webp" width="100%" alt="Tela de boas-vindas do Como Escrevo?">
 </p>
 
 ## 🦁 Conheça a Lorah
 
 <p align="center">
-  <img src="screenshots/Lorah.webp" width="150" alt="Lorah, a leoa do Como Escrevo?">
+  <img src="screenshots/Lorah.webp" width="120" alt="Lorah, a leoa do Como Escrevo?">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.aistudio.comoescrevo.app&pcampaignid=web_share">
-    <img src="https://play.google.com/intl/pt-BR/badges/static/images/badges/pt-br_badge_web_generic.png" width="240" alt="Disponível no Google Play">
+    <img src="https://play.google.com/intl/pt-BR/badges/static/images/badges/pt-br_badge_web_generic.png" width="200" alt="Disponível no Google Play">
   </a>
 </p>
 
@@ -119,7 +119,7 @@ Para conhecer os detalhes sobre coleta, utilização e proteção de dados, cons
 
 Para dúvidas, sugestões ou informações sobre o aplicativo:
 
-**E-mail:** `aaglyma@gmail.com`
+**E-mail:** `contato@devemcasa.com.br
 
 ---
 
