@@ -1,44 +1,94 @@
-✏️ COMO ESCREVO?
+# ✏️ Como Escrevo?
 
-"Como escrevo girafa?"
+<p align="center">
+  <strong>Aprender a escrever pode ser uma grande aventura!</strong>
+</p>
 
-A criança fala.
-O Como Escrevo? ajuda a descobrir como escrever.
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.aistudio.comoescrevo.app&pcampaignid=web_share">
+    <img src="https://play.google.com/intl/pt-BR/badges/static/images/badges/pt-br_badge_web_generic.png" width="240" alt="Disponível no Google Play">
+  </a>
+</p>
 
-[ 📲 BAIXAR NA GOOGLE PLAY ]
+---
 
-────────────────────────
+## 🦁 Aprender brincando
 
-📚 Aprender brincando
+O **Como Escrevo?** é um aplicativo educativo desenvolvido para tornar o processo de alfabetização mais divertido, interativo e envolvente.
 
-Apresentação curta do aplicativo.
+Com a ajuda da **Lorah, a leoa**, a criança pode explorar palavras, letras, sons e números de uma maneira simples e intuitiva.
 
-📸 Screenshots
+A criança fala e o aplicativo ajuda a descobrir **como aquela palavra é escrita**.
 
-[ imagens do app ]
+---
 
-✨ O que a criança pode aprender
+## ✨ O que o Como Escrevo? oferece
 
-🔤 Soletração
-🔊 Pronúncia
-🔢 Números
-🎙️ Interação por voz
-🦕 Personagem/mascote
+🎙️ **Interação por voz**
+A criança pode falar uma palavra e interagir com o aplicativo de forma natural.
 
-👨‍👩‍👧 Pensado para crianças e famílias
+🔤 **Soletração**
+Aprenda as letras que formam cada palavra, associando os sons à escrita.
 
-Texto sobre a proposta pedagógica.
+🔊 **Pronúncia**
+Ouça as palavras e seus sons para ajudar no processo de alfabetização.
 
-🔒 Privacidade
+🔢 **Números**
+Explore números e sua forma escrita.
 
-Explicação objetiva sobre dados,
-permissões e anúncios.
+🦁 **Lorah, a leoa**
+Uma personagem criada para acompanhar a criança durante essa jornada de aprendizado.
 
-📱 Disponível para Android
+🎯 **Desafios progressivos**
+Uma experiência que acompanha diferentes momentos do processo de aprendizagem.
 
-[ Google Play ]
+👨‍👩‍👧 **Área dos Pais**
+Recursos e configurações pensados para os responsáveis.
 
-────────────────────────
+---
 
-Desenvolvido por ...
-Contato...
+## 📚 Para aprender brincando
+
+O **Como Escrevo?** foi pensado para transformar momentos de aprendizado em uma experiência mais leve e divertida.
+
+A proposta é aproximar a criança das palavras, dos sons e das letras, estimulando a curiosidade e a descoberta.
+
+> **Falar, ouvir, descobrir e aprender.**
+
+---
+
+## 📱 Disponível para Android
+
+O **Como Escrevo?** já está disponível gratuitamente na Google Play.
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.aistudio.comoescrevo.app&pcampaignid=web_share">
+    <img src="https://play.google.com/intl/pt-BR/badges/static/images/badges/pt-br_badge_web_generic.png" width="240" alt="Baixar Como Escrevo? na Google Play">
+  </a>
+</p>
+
+---
+
+## 🔒 Privacidade
+
+O aplicativo foi desenvolvido com atenção à privacidade e à segurança das crianças.
+
+Para conhecer todos os detalhes, consulte a política de privacidade disponível na página do aplicativo na Google Play.
+
+---
+
+## 💛 Desenvolvido para aprender
+
+O **Como Escrevo?** nasceu com uma ideia simples:
+
+**Aprender a escrever pode ser divertido.**
+
+---
+
+<p align="center">
+  <strong>🦁 Como Escrevo? — Aprender brincando!</strong>
+</p>
+
+<p align="center">
+  © Como Escrevo? — Todos os direitos reservados.
+</p>
