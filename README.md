@@ -1,11 +1,12 @@
 # ✏️ Como Escrevo?
 
 <p align="center">
-  <img src="screenshots/Lorah.webp" width="280" alt="Lorah, a leoa do Como Escrevo?">
+  <img src="screenshots/Lorah.webp" width="330" alt="Lorah, a leoa do Como Escrevo?">
 </p>
 
 <p align="center">
-  <strong>Aprender a ler, escrever e soletrar pode ser uma grande aventura! 🦁</strong>
+  <strong>🦁 Esta é a Lorah!</strong><br>
+  A companheira das crianças na aventura de aprender a ler, escrever e soletrar.
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 
 O **Como Escrevo?** é um aplicativo educativo criado para tornar a descoberta das palavras, letras, sons e números mais divertida e interativa.
 
-Com a ajuda da **Lorah, a leoa**, a criança pode explorar o universo das palavras e desenvolver sua familiaridade com a escrita de uma maneira simples e envolvente.
+Com a ajuda da **Lorah**, a criança pode explorar o universo das palavras de uma maneira simples, intuitiva e envolvente.
 
 A proposta é transformar uma pergunta muito comum durante a alfabetização:
 
@@ -33,10 +34,9 @@ em uma oportunidade para **descobrir, ouvir, soletrar e aprender.**
 ## 📱 Conheça o aplicativo
 
 <p align="center">
-  <img src="screenshots/bem-vindo.webp" width="200" alt="Tela de boas-vindas do Como Escrevo?">
-  <img src="screenshots/inicio.webp" width="200" alt="Tela inicial do Como Escrevo?">
-  <img src="screenshots/palavra.webp" width="200" alt="Tela de palavras do Como Escrevo?">
-  <img src="screenshots/soletracao.webp" width="200" alt="Tela de soletração do Como Escrevo?">
+  <img src="screenshots/inicio.webp" width="220" alt="Tela inicial do Como Escrevo?">
+  <img src="screenshots/palavra.webp" width="220" alt="Tela de palavras do Como Escrevo?">
+  <img src="screenshots/soletracao.webp" width="220" alt="Tela de soletração do Como Escrevo?">
 </p>
 
 <p align="center">
@@ -45,15 +45,13 @@ em uma oportunidade para **descobrir, ouvir, soletrar e aprender.**
 
 ---
 
-## 🦁 Conheça a Lorah
+## 🦁 Uma companheira para aprender brincando
 
-A **Lorah** é a leoa que acompanha as crianças durante a experiência no Como Escrevo?
+A **Lorah** foi criada para acompanhar a criança durante essa jornada.
 
-Com seu jeito amigável e divertido, ela ajuda a transformar cada descoberta em um momento de aprendizado.
+Ela está presente na experiência para tornar a descoberta das letras e palavras mais leve, divertida e acolhedora.
 
-<p align="center">
-  <img src="screenshots/Lorah.webp" width="300" alt="Lorah, personagem do Como Escrevo?">
-</p>
+**Aprender pode ser uma grande aventura!** 🦁✨
 
 ---
 
@@ -69,7 +67,7 @@ Explore as letras que formam as palavras e acompanhe sua soletração.
 
 ### 🔊 Pronúncia
 
-Ouça as palavras e seus sons, ajudando a aproximar a fala da representação escrita.
+Ouça as palavras e seus sons durante a experiência.
 
 ### 🔢 Números
 
@@ -77,19 +75,19 @@ Explore também números e suas formas escritas.
 
 ### 🎯 Desafios progressivos
 
-Uma experiência que pode acompanhar diferentes momentos da jornada de aprendizagem.
+Uma experiência que acompanha diferentes momentos da jornada de aprendizagem.
 
 ---
 
 ## 👨‍👩‍👧 Pensado para crianças e famílias
 
-O **Como Escrevo?** foi desenvolvido pensando em uma experiência simples e intuitiva para as crianças, com recursos que também permitem a participação dos responsáveis.
+O **Como Escrevo?** foi desenvolvido pensando em uma experiência simples e intuitiva para as crianças.
 
-A **Área dos Pais** oferece configurações e recursos destinados aos adultos responsáveis pela criança.
+A **Área dos Pais** também oferece recursos e configurações destinados aos adultos responsáveis.
 
 ---
 
-## 🎨 Uma experiência feita para aprender brincando
+## 🎨 Aprender brincando
 
 Mais do que apresentar letras e palavras, o objetivo do **Como Escrevo?** é criar uma experiência na qual a criança tenha curiosidade para perguntar, ouvir, descobrir e tentar novamente.
 
@@ -121,16 +119,6 @@ Para conhecer os detalhes sobre coleta, utilização e proteção de dados, cons
 
 ---
 
-## 👨‍💻 Desenvolvido com carinho
-
-O **Como Escrevo?** nasceu de uma ideia simples:
-
-> **Aprender nunca precisa deixar de ser divertido.**
-
-Desenvolvido com o objetivo de proporcionar às crianças uma experiência educativa, interativa e acolhedora durante a descoberta da escrita.
-
----
-
 ## 📬 Contato
 
 Para dúvidas, sugestões ou informações sobre o aplicativo:
@@ -145,5 +133,27 @@ Para dúvidas, sugestões ou informações sobre o aplicativo:
 </p>
 
 <p align="center">
-  © Como Escrevo? — Todos os direitos reservados.
+  <strong>✏️ Como Escrevo?</strong><br>
+  <em>Aprender brincando!</em>
 </p>
+
+<br>
+
+<p align="center">
+  Desenvolvido por
+</p>
+
+<p align="center">
+  <a href="https://devemcasa.com.br/">
+    <strong>🏠 DEV EM CASA</strong>
+  </a>
+</p>
+
+<p align="center">
+  <em>Ideias que viram soluções digitais.</em>
+</p>
+
+<p align="center">
+  © 2026 Como Escrevo? — Todos os direitos reservados.
+</p>
+
