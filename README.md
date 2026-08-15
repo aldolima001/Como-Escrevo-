@@ -43,6 +43,8 @@ em uma oportunidade para **descobrir, ouvir, soletrar e aprender.**
   <img src="screenshots/inicio.webp" width="220" alt="Tela inicial do Como Escrevo?">
   <img src="screenshots/palavra.webp" width="220" alt="Tela de palavras do Como Escrevo?">
   <img src="screenshots/soletracao.webp" width="220" alt="Tela de soletração do Como Escrevo?">
+  <img src="screenshots/como_usar.webp" width="220" alt="Tela de Digas do Como Escrevo?">
+  <img src="screenshots/area_pais.webp" width="220" alt="Tela para os Pais com informações do Como Escrevo?">
 </p>
 
 <p align="center">
