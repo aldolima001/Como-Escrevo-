@@ -40,11 +40,14 @@ em uma oportunidade para **descobrir, ouvir, soletrar e aprender.**
 ## 📱 Conheça o aplicativo
 
 <p align="center">
-  <img src="screenshots/inicio.webp" width="220" alt="Tela inicial do Como Escrevo?">
-  <img src="screenshots/palavra.webp" width="220" alt="Tela de palavras do Como Escrevo?">
-  <img src="screenshots/soletracao.webp" width="220" alt="Tela de soletração do Como Escrevo?">
-  <img src="screenshots/como_usar.webp" width="220" alt="Tela de Digas do Como Escrevo?">
-  <img src="screenshots/area_pais.webp" width="220" alt="Tela para os Pais com informações do Como Escrevo?">
+  <img src="screenshots/inicio.webp" height="400" alt="Tela inicial do Como Escrevo?">
+  <img src="screenshots/palavra.webp" height="400" alt="Tela de palavras do Como Escrevo?">
+  <img src="screenshots/soletracao.webp" height="400" alt="Tela de soletração do Como Escrevo?">
+</p>
+
+<p align="center">
+  <img src="screenshots/como_usar.webp" height="400" alt="Tela de Dicas do Como Escrevo?">
+  <img src="screenshots/area_pais.webp" height="400" alt="Área dos Pais do Como Escrevo?">
 </p>
 
 <p align="center">
